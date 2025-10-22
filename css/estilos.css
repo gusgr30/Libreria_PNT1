@@ -6,11 +6,6 @@ html, body {
   flex-direction: column;
   font-family: Arial, sans-serif;
 }
-
-main {
-  flex: 1;
-}
-
 header {
   background-color: #ffb303;
   color: white;
@@ -141,6 +136,7 @@ header {
   color: #333;
   font-family: Arial, sans-serif;
   font-size: 14px;
+  margin-top: 2rem;
 }
 
 .footer a {
